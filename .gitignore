@@ -137,6 +137,11 @@ venv.bak/
 
 # mkdocs documentation
 /site
+.env.dev.db
+.env.prod.db
+.env.dev
+.env.prod
+.env
 
 # mypy
 .mypy_cache/
